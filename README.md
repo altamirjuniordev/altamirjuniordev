@@ -5,12 +5,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamirjuniordev&layout=compact&hide_border=true&title_color=329542&text_color=329542&bg_color=0d1117" />
 </div>
 
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=altamirjuniordev&theme=gotham&hide_border=true&area=true)
-
-
-
-
 ### Minhas habilidades:
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
