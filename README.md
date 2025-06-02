@@ -43,7 +43,6 @@ Tenho experiência prática com **automação de processos**, integrações via 
 ## ✉️ Contato
 
 - 📧 altamirjr@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/altamirjuniordev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/altamir-junior-665327232/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=329542&height=120&section=footer"/>
-](https://www.linkedin.com/in/altamir-junior-665327232/)
