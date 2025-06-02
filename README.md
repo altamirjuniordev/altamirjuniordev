@@ -5,7 +5,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou desenvolvedor fullstack com foco em **.NET/C#**, comprometido em entregar soluções limpas, performáticas e escaláveis para problemas do mundo real.  
-Atuo com sistemas legados e modernos utilizando **ASP.NET MVC**, **APIs REST**, e bancos de dados relacionais como o **SQL Server**.  
+Atuo com sistemas legados e modernos utilizando **ASP.NET MVC**, **APIs REST**, e bancos de dados relacionais como **SQL Server** e **PostgreSQL** .  
 Tenho experiência prática com **automação de processos**, integrações via **Webhooks**, autenticação com **JWT**, conteinerização com **Docker**, versionamento com **Git** e **testes automatizados** com foco em qualidade, utilizando frameworks como **xUnit**.
 
 
