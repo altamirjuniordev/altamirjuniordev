@@ -40,19 +40,6 @@ Tenho experiência prática com **automação de processos**, integrações via 
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=altamirjuniordev&theme=onedark&title=Commit,PR,Repositories,Issue)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 Linguagens mais usadas
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamirjuniordev&layout=compact&hide_border=true&theme=github_dark&title_color=329542" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ## ✉️ Contato
 
 - 📧 altamirjr@hotmail.com  
