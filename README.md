@@ -1,12 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=329542&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Alyson+Souza;Desenvolvedor+.NET+e+apaixonado+por+tecnologia;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=329542&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Altamir+Junior;Desenvolvedor+.NET+e+apaixonado+por+tecnologia;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=329542&height=120&section=header"/>
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor backend com foco em **.NET/C#**, apaixonado por resolver problemas reais com soluções limpas, performáticas e escaláveis.  
-Atualmente trabalho com sistemas legados e modernos em **ASP.NET MVC**, **APIs REST**, e integrações com bancos de dados SQL Server.  
-Também tenho experiência com automações, integrações via Webhooks, JWT, Docker e Git.
+Sou desenvolvedor fullstack com foco em **.NET/C#**, comprometido em entregar soluções limpas, performáticas e escaláveis para problemas do mundo real.  
+Atuo com sistemas legados e modernos utilizando **ASP.NET MVC**, **APIs REST**, e bancos de dados relacionais como o **SQL Server**.  
+Tenho experiência prática com **automação de processos**, integrações via **Webhooks**, autenticação com **JWT**, conteinerização com **Docker**, versionamento com **Git** e **testes automatizados** com foco em qualidade, utilizando frameworks como **xUnit**.
+
 
 ---
 
@@ -33,11 +34,9 @@ Também tenho experiência com automações, integrações via Webhooks, JWT, Do
 ---
 
 ## 📚 Atualmente estudando
+![DDD](https://img.shields.io/badge/DDD-0D1117?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge)
-![xUnit](https://img.shields.io/badge/xUnit-0D1117?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0D1117?style=for-the-badge)
 
 ---
 
@@ -56,7 +55,8 @@ Também tenho experiência com automações, integrações via Webhooks, JWT, Do
 
 ## ✉️ Contato
 
-- 📧 alysonsouza.dev@gmail.com  
+- 📧 altamirjr@hotmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/altamirjuniordev/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=329542&height=120&section=footer"/>
+](https://www.linkedin.com/in/altamir-junior-665327232/)
