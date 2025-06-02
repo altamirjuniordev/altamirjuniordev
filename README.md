@@ -1,4 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=329542&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Altamir+Junior;Desenvolvedor+.NET+e+apaixonado+por+tecnologia;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=329542&size=30&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Altamir+Junior;Desenvolvedor+.NET+e+apaixonado+por+tecnologia;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=329542&height=120&section=header"/>
 
